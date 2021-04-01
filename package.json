@@ -4,7 +4,8 @@
   "dependencies": {},
   "devDependencies": {
     "pxt": "^0.3.0",
-    "pxt-microbit": "^0.9.76"
+    "pxt-microbit": "^0.9.76",
+    "mbed": "^0.1"
   },
   "scripts": {
     "pxt:init": "pxt target microbit",
