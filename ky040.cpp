@@ -25,8 +25,8 @@ P19= 0,
 P20= 30};
 
 enum class RotationDirection{
-  Left = 0,
-  Right = 1
+  Left = 1,
+  Right = 0
 };
 namespace RotaryEncoder {
   uint32_t lri = 0, lbi=0;InterruptIn *ri; DigitalIn *dv, *dsw; Timer tsb; vA leftRotate, rightRotate, pressRotate;
