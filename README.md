@@ -1,6 +1,6 @@
 # KY040 Rotary Encoder MakeCode Package [![Build Status](https://travis-ci.org/Tinkertanker/pxt-rotary-encoder-ky040.svg?branch=master)](https://travis-ci.org/Tinkertanker/pxt-rotary-encoder-ky040)
 
-This is the MakeCode package for the KY-040 rotary encoder. (And an attempt to update it...)
+This is the MakeCode package for the KY-040 rotary encoder.
 
 ## Hardware Setup
 1. Connect the appropriate pins (CLK, DT, SW, GND) to the micro:bit.
